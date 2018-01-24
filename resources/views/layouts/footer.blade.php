@@ -6,15 +6,15 @@
         <p class="grey-text text-lighten-4">Email: info@vccb.cl<br>Fono: 56 - 063 - 2221217</p>
       </div>
       <div class="col s3 social">
-        <img class="social-icon" src="img/facebook.png">
-        <img class="social-icon" src="img/twitter.png">
-        <img class="social-icon" src="img/instagram.png">
+        <a href="https://www.facebook.com/VCCBChile/"><img class="social-icon" src="img/facebook.png"></a>
+        <a href="https://twitter.com/vccbchile"><img class="social-icon" src="img/twitter.png"></a>
+        <a href="https://www.instagram.com/vccbchile/"><img class="social-icon" src="img/instagram.png"></a>
       </div>
     </div>
   </div>
   <div class="footer-copyright">
     <div class="container">
-    Made by <a class="orange-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+    Made by <a class="orange-text text-lighten-3" href="http://segasi.cl">segasi</a>
     </div>
   </div>
 </footer>

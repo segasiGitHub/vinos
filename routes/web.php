@@ -22,3 +22,23 @@ Route::get('/inicio', function () {
 Route::get('/vinas', function () {
     return view('vinas');
 });
+
+Route::get('/actividades', function () {
+    return view('actividades');
+});
+
+Route::get('/investigaciones', function () {
+    return view('investigaciones');
+});
+
+Route::get('/programa', function () {
+    return view('programa');
+});
+
+Route::get('/noticias', function () {
+    return view('noticias');
+});
+
+Route::get('/equipo', function () {
+    return view('equipo');
+});

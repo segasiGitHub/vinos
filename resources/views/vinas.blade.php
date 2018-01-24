@@ -15,9 +15,9 @@
     <div class="col s12 m7">
        <div class="card horizontal">
          <div class="card-image">
-           <img src="vina-altair.jpg">
+           <img src="img/vina-altair.jpg">
            <br>
-           <img src="360-LOGO-ESP.jpg">
+           <img src="img/360-LOGO-ESP.jpg">
 
          </div>
          <div class="light" class="card-stacked">
@@ -36,7 +36,7 @@
         <div class="card horizontal">
           <div class="card-image">
             <br><br><br><br><br><br>
-            <img src="vina-amayna.jpg">
+            <img src="img/vina-amayna.jpg">
 
           </div>
           <div class="card-stacked">
@@ -56,7 +56,7 @@
          <div class="card horizontal">
            <div class="card-image">
              <br>
-             <img src="vina-arboleda.jpg">
+             <img src="img/vina-arboleda.jpg">
              </div>
            <div class="card-stacked">
              <div class="card-content">
@@ -73,7 +73,7 @@
           <div class="card horizontal">
             <div class="card-image">
               <br><br><br><br>
-              <img src="vina-aplatagua.jpg">
+              <img src="img/vina-aplatagua.jpg">
               </div>
             <div class="card-stacked">
               <div class="card-content">
@@ -92,8 +92,8 @@
            <div class="card horizontal">
              <div class="card-image">
                <br><br><br><br>
-               <img src="vina-CyT.jpg">
-               <img src="vina-conchaytoro.jpg">
+               <img src="img/vina-CyT.jpg">
+               <img src="img/vina-conchaytoro.jpg">
                </div>
              <div class="card-stacked">
                <div class="card-content">
@@ -112,7 +112,7 @@
             <div class="card horizontal">
               <div class="card-image">
                 <br><br>
-                <img src="vina-conosur.jpg">
+                <img src="img/vina-conosur.jpg">
                 </div>
               <div class="card-stacked">
                 <div class="card-content">
@@ -129,7 +129,7 @@
           <div class="col s12 m7">
              <div class="card horizontal">
                <div class="card-image">
-                 <img src="vina-emiliana.jpg">
+                 <img src="img/vina-emiliana.jpg">
                  </div>
              </div>
            </div>
@@ -138,7 +138,7 @@
               <div class="card horizontal">
                 <div class="card-image">
                   <br><br>
-                  <img src="vina-errazuriz.jpg">
+                  <img src="img/vina-errazuriz.jpg">
                   </div>
                 <div class="card-stacked">
                   <div class="card-content">
@@ -154,7 +154,7 @@
             <div class="col s12 m7">
                <div class="card horizontal">
                  <div class="card-image">
-                   <img src="vina-gillmore.jpg">
+                   <img src="img/vina-gillmore.jpg">
                    </div>
                </div>
              </div>
@@ -163,7 +163,7 @@
                 <div class="card horizontal">
                   <div class="card-image">
                     <br><br><br><br>
-                    <img src="vina-montes.jpg">
+                    <img src="img/vina-montes.jpg">
                     </div>
                   <div class="card-stacked">
                     <div class="card-content">
@@ -180,7 +180,7 @@
                  <div class="card horizontal">
                    <div class="card-image">
                      <br>
-                     <img src="vina-grupobelen.jpg">
+                     <img src="img/vina-grupobelen.jpg">
                      </div>
                    <div class="card-stacked">
                      <div class="card-content">
@@ -197,7 +197,7 @@
                   <div class="card horizontal">
                     <div class="card-image">
                       <br><br><br><br>
-                      <img src="vina-polkura.jpg">
+                      <img src="img/vina-polkura.jpg">
                       </div>
                     <div class="card-stacked">
                       <div class="card-content">
@@ -212,7 +212,7 @@
                 <div class="col s12 m7">
                    <div class="card horizontal">
                      <div class="card-image">
-                     <img src="vina-sena.jpg">
+                     <img src="img/vina-sena.jpg">
                        </div>
                      <div class="card-stacked">
                        <div class="card-content">
@@ -229,8 +229,8 @@
                     <div class="card horizontal">
                       <div class="card-image">
                         <br><br><br>
-                      <img src="vina-tarapaca.jpg">
-                      <img src="360-LOGO-ESP.jpg">
+                      <img src="img/vina-tarapaca.jpg">
+                      <img src="img/360-LOGO-ESP.jpg">
                         </div>
                       <div class="card-stacked">
                         <div class="card-content">
@@ -247,7 +247,7 @@
                      <div class="card horizontal">
                        <div class="card-image">
                          <br>
-                         <img src="vina-veramonte.jpg">
+                         <img src="img/vina-veramonte.jpg">
                          <br>
                          </div>
                      </div>
@@ -258,7 +258,7 @@
                       <div class="card horizontal">
                         <div class="card-image">
                           <br><br><br><br>
-                        <img src="vina-viuManent.jpg">
+                        <img src="img/vina-viuManent.jpg">
                           </div>
                         <div class="card-stacked">
                           <div class="card-content">
@@ -276,7 +276,7 @@
                        <div class="card horizontal">
                          <div class="card-image">
                            <br>
-                           <img src="vina-luisfelipe.jpg">
+                           <img src="img/vina-luisfelipe.jpg">
                            <br>
                            </div>
                        </div>

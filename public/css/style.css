@@ -12,21 +12,7 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
-#eco {
-    width: 100%;
-    height: auto;
-}
- #descarga {
-    max-width: 100%
-    height: auto;
-}
-
- #fotoactividades {
-     width: 70%;
-     height: auto;
- }
-
- .navbar{
+.navbar{
    top: -6px;
    position: relative;
  }
